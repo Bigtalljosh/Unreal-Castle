@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"G:/Unreal/Projects/Unreal-Castle/Castle/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"G:/Unreal/Projects/Unreal-Castle/Castle/Content/Maps/CastleEnvironment.umap"
+				"G:/Unreal/Projects/Unreal-Castle/Castle/Content/Maps/CastleEnvironment.umap",
+				"G:/Unreal/Projects/Unreal-Castle/Castle/Content/Maps/CastleEnvironment_BuiltData.uasset",
+				"G:/Unreal/Projects/Unreal-Castle/Castle/Content/Maps/CastleEnvironment_sharedassets/AutoMaterial_LayerInfo.uasset"
 			]
 		}
 	]
